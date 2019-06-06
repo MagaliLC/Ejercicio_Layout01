@@ -7,4 +7,7 @@
     <string name="hintName">Nombre aquí</string>
     <string name="hello">Hola </string>
     <string name="welcome"> ¿Qué tal el día?</string>
+    <string name="accept">¿Aceptas?</string>
+    <string name="checked">Está seleccionado</string>
+    <string name="unchecked">No está seleccionado</string>
 </resources>
