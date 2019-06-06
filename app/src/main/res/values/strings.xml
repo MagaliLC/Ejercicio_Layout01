@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio_layout</string>
+    <string name="title">Título</string>
+    <string name="btnOK">Aceptar</string>
+    <string name="bntCNL">Cancelar</string>
+    <string name="txtEnter">Introduce tu nombre</string>
+    <string name="hintName">Nombre aquí</string>
+    <string name="hello">Hola </string>
+    <string name="welcome"> ¿Qué tal el día?</string>
+</resources>
