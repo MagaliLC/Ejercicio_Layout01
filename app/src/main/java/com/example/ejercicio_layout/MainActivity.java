@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         tv.setText("");
         etName.setText("");
     }
+
+    public void checkedCheckbox(View view){
+        boolean checked = ((CheckBox) view).isChecked();
+
+    }
 }
