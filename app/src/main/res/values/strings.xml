@@ -8,6 +8,6 @@
     <string name="hello">Hola </string>
     <string name="welcome"> ¿Qué tal el día?</string>
     <string name="accept">¿Aceptas?</string>
-    <string name="checked">Está seleccionado</string>
-    <string name="unchecked">No está seleccionado</string>
+    <string name="checked">Has aceptado</string>
+    <string name="unchecked">No has aceptado</string>
 </resources>
